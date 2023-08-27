@@ -1,0 +1,32 @@
+{
+    "widget": {
+        "name": "Автосумма",
+        "short_description": "Суммирует настроенные поля",
+        "description": "Суммирует настроенные поля",
+        "tour_description": "Описание виджета"
+    },
+    "settings": {
+        "login": "Логин",
+        "api_key": "ключ API",
+        "account": "Аккаунт",
+        "summand1": "Поле сделки - Слагаемое 1",
+        "summand2": "Поле сделки - Слагаемое 2",
+        "summ": "Поле сделки - Сумма"
+    },
+    "advanced":{
+        "title":"Заголовок меню в настройках"
+    },
+    "salesbot":{
+        "button_title":"Заголовок кнопки",
+        "button_caption":"Описание кнопки",
+        "button_title_default_value":"Заголовок кнопки",
+        "button_caption_default_value":"Описание кнопки",
+        "text":"Текст",
+        "number":"Число",
+        "url":"URL",
+        "handler_name":"Название обработчика"
+    },
+    "dp":{
+        "message": "Сообщение"
+    }
+}
